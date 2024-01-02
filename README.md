@@ -4,5 +4,5 @@
 
 <details>
   <summary>Manual Testing</summary>
-    [Manual Testing Bootcamp](https://www.youtube.com/watch?v=lxUd1bz7jYA&list=PLJ2FoWouEU2zpjd0_ukTWM46D7tAXQ_Ln)
+    Manual Testing Bootcamp[Arabic](https://www.youtube.com/playlist?list=PLJ2FoWouEU2zpjd0_ukTWM46D7tAXQ_Ln)
 </details>  
