@@ -2,7 +2,20 @@
 
 ### Tools for learning testing:
 
+#### Courses : 
 <details>
   <summary>Manual Testing</summary>
-    Manual Testing Bootcamp[Arabic](https://www.youtube.com/playlist?list=PLJ2FoWouEU2zpjd0_ukTWM46D7tAXQ_Ln)
 </details>  
+<details>
+  <summary>Automated Testing</summary>
+</details>
+
+#### Articles :  
+<details>
+  <summary>Manual Testing</summary>
+</details>  
+<details>
+  <summary>Automated Testing</summary>
+</details>
+
+
